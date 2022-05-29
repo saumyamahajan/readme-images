@@ -134,20 +134,20 @@ Home page is the landing page of my application that takes you to the various re
 
 User can enter url of any spotify playlist and get recommendations based on the songs in the playlist
 
-<img src="readme-images/recommendation-through-Playlist.jpeg" alt="blank chat window" width="700"/>
+<img src="readme-images/recommendation-through-Playlist.jpeg" alt="recommendation-through-Playlist" width="700"/>
 
 
 ### Get Genre Based Recommendations
 
 The user can select a genre out of the given choices and can customise the audio features and can get recommendations 
 
-<img src="readme-images/recommendation-through-Genre.jpeg" alt="video call welcome screen" width="700"/>
+<img src="readme-images/recommendation-through-Genre.jpeg" alt="recommendation-through-Genre" width="700"/>
 
 ### Get Recommendations for Input Song
 
 The user can enter any song of their choice and get recommendations based on it
 
-<img src="readme-images/recommendation-through-NameOfTheSong.jpeg" alt="video call welcome screen" width="700"/>
+<img src="readme-images/recommendation-through-NameOfTheSong.jpeg" alt="recommendation-through-NameOfTheSong" width="700"/>
 
 
 
